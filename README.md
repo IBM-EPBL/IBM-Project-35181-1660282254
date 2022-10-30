@@ -1,9 +1,9 @@
 # IBM-Project-35181-1660282254
 ## Fertilizers Recommendation System For Disease Prediction
-###### Team Leader - **Lalith Kishore**
-###### Team Member 1 - **Durga**
-###### Team Member 2 - **Gomathy**
-###### Team Member 3 - **Hari Haran**
+###### Team Leader - Lalith Kishore V
+###### Team Member - Hari Haran E
+###### Team Member - Durga V
+###### Team Member - Gomathy K
 ## INTRODUCTION
 ###### _Fertilizer Recommentation system for Disease Prediction is a simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.Application of Computer vision and image processing strategies simply assist farmers in all of our Regions of Agriculture_
 ## Problem Statement 
